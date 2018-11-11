@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "hapi": "^17.7.0",
+    "hapi-pino": "^5.1.0",
+    "hapi-swagger": "^9.1.2",
+    "inert": "^5.1.2",
+    "joi": "^14.0.5",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "vision": "^5.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
